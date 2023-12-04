@@ -2,4 +2,4 @@
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me maryam.hacibalayeva.n@asoiu.edu.az | hmeryam16@gmail.com
+- 📫 How to reach me hmeryam16@gmail.com
